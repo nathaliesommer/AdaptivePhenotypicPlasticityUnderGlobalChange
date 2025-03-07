@@ -1,5 +1,7 @@
 # Adaptive Phenotypic Plasticity Under Global Change
 
+Shiny app: [https://nathaliesommer.shinyapps.io/TraitModel/](https://nathaliesommer.shinyapps.io/TraitModel/)
+
 ## Authors
 - Nathalie R. Sommer (Yale School of the Environment)
 - Oswald J. Schmitz (Yale School of the Environment)
@@ -61,11 +63,8 @@ OR, visit the Shinyapp at [https://nathaliesommer.shinyapps.io/TraitModel/](http
 ## Citation
 If you use this model or code in your research, please cite:
 ```
-Nathalie Sommer, Oswald J Schmitz, Geoffrey C. Trussell. Adaptive phenotypic plasticity under global change. **Authorea**. DOI: 10.22541/au.173391892.21552386/v1
+Nathalie Sommer, Oswald J Schmitz, Geoffrey C. Trussell. Adaptive phenotypic plasticity under global change. Authorea. DOI: 10.22541/au.173391892.21552386/v1
 ```
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 For questions about the model or implementation, please contact:
