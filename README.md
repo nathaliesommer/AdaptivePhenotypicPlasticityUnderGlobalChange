@@ -1,4 +1,4 @@
-# A trait-based framework for adaptive phenotypic Plasticity Under Global Change
+# A trait-based framework for adaptive phenotypic plasticity under global change
 
 Shiny app: [https://nathaliesommer.shinyapps.io/TraitModel/](https://nathaliesommer.shinyapps.io/TraitModel/)
 
