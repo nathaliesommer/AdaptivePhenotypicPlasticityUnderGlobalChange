@@ -164,7 +164,7 @@ ui <- fluidPage(
   # Title and subtitle
   div(
     h2(class = "main-title", "Trait plasticity under increasing magnitudes of global change"),
-    p(class = "subtitle", "From Sommer et al. ", HTML("<em>Adaptive phenotypic plasticity under global change</em>"))
+    p(class = "subtitle", "From Sommer et al. (2025)", HTML("<em>A trait-based framework for adaptive phenotypic plasticity under global change</em>"))
   ),
   
   # Main plot
