@@ -1,4 +1,4 @@
-# A trait-based framework for adaptive Phenotypic Plasticity Under Global Change
+# A trait-based framework for adaptive phenotypic Plasticity Under Global Change
 
 Shiny app: [https://nathaliesommer.shinyapps.io/TraitModel/](https://nathaliesommer.shinyapps.io/TraitModel/)
 
@@ -8,7 +8,7 @@ Shiny app: [https://nathaliesommer.shinyapps.io/TraitModel/](https://nathaliesom
 - Geoffrey C. Trussell (Northeastern University Marine Science Center)
 
 ## Overview
-This repository contains the computational model and interactive visualization tools supporting the paper "A trait-based framework for adaptive phenotypic plasticity under global change", published in Oikos. The model explores how organisms deploy different types of phenotypic plasticity (behavioral, physiological, and morphological) in response to varying dimensions of global change (mean changes, variability, and stochasticity).
+This repository contains the computational model and interactive visualization tools supporting the paper "A trait-based framework for adaptive phenotypic plasticity under global change", published in Oikos (doi:10.1002/oik.11318). The model explores how organisms deploy different types of phenotypic plasticity (behavioral, physiological, and morphological) in response to varying dimensions of global change (mean changes, variability, and stochasticity).
 
 ## Model Description
 The trait deployment model quantifies the likelihood of different plastic responses based on:
